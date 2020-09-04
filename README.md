@@ -1,3 +1,3 @@
 # Machine Learing implementations
-## fd
-thes
+All implementations are done using the Jupyter notebook.
+
