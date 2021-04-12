@@ -18,5 +18,5 @@ The labels in the provided data are:
   0: for everything else
 
 
-<img src="3D_image_segmentation/pred_0.gif">
+![](3D_image_segmentation/pred_0.gif)
 
