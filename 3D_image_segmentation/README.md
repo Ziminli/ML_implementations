@@ -12,12 +12,11 @@ The sub-regions considered for evaluation are: 1) the "enhancing tumor" (ET),
 
 The labels in the provided data are:
 
-1: for NCR & NET
+  1: for NCR & NET
+  2: for ED
+  4: for ET, and
+  0: for everything else
 
-2: for ED
 
-4: for ET, and
+<img src="3D_image_segmentation/pred_0.gif">
 
-0: for everything else
-
-![GIF](3D_image_segmentation/3D_UNET.jpg)
