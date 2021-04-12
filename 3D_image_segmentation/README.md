@@ -20,4 +20,4 @@ The labels in the provided data are:
 
 0: for everything else
 
-![Pred_0](https://github.com/Ziminli/ML_implementations/tree/master/3D_image_segmentation/pred_0.gif)
+![Pred_0](3D_image_segmentation/pred_0.gif)
