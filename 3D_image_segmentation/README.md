@@ -20,4 +20,4 @@ The labels in the provided data are:
 
 0: for everything else
 
-![Pred_0](3D_image_segmentation/pred_0.gif)
+![GIF](3D_image_segmentation/3D_UNET.jpg)
