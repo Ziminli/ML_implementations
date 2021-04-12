@@ -1,3 +1,7 @@
 # Housing Price Prediction
 
-A R
+Predicting the housing price in California. 
+Analyzing dataset using Pandas.
+Model used: Linear regression, SVM, and random forest.
+Fine-tuning hyperparameters using grid search.
+Saving and loading models.
